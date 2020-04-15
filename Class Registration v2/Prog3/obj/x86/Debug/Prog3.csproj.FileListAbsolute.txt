@@ -1,0 +1,9 @@
+J:\CIS199\Prog3\Prog3\bin\Debug\Prog2.exe
+J:\CIS199\Prog3\Prog3\bin\Debug\Prog2.pdb
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog3.csprojResolveAssemblyReference.cache
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog2.Properties.Resources.resources
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog2.RegForm.resources
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.CoreCompileInputs.cache
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+J:\CIS199\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
